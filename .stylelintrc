@@ -1,0 +1,6 @@
+
+    rules:{
+ 
+		'annotation-no-unknown': true;
+		
+    }
